@@ -1,4 +1,4 @@
-# QCS Login White List
+# QCS Login Whitelist
 # 一行一个授权码
 quicdemo
 quicdemo2
